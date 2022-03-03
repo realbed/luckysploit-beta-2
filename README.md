@@ -1,1 +1,1 @@
-# luckysploit-beta-2
+Beta 2 is now here
